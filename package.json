@@ -1,0 +1,9 @@
+{
+  "name": "wiki",
+  "version": "0.0.1",
+  "description": "koa + mongodb wiki system",
+  "main": "index.js",
+  "repository": "https://github.com/shaodahong/wiki.git",
+  "author": "shaodahong <337097324@qq.com>",
+  "license": "MIT"
+}
